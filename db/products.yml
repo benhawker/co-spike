@@ -1,0 +1,15 @@
+-
+  code: SF1
+  name: Sunflower
+  price: 3.11
+  currency: GBP
+-
+  code: RR1
+  name: Red Rose
+  price: 5.00
+  currency: GBP
+-
+  code: SL1
+  name: Lily
+  price: 11.23
+  currency: GBP
